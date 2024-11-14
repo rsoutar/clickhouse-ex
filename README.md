@@ -1,6 +1,3 @@
-Certainly! Here's an updated version of your `README.md` that includes information about the two HTTP methods and the `curl` command for the POST request:
-
-````markdown
 # Clickhouse-Ex
 
 A sample NestJS application integrated with ClickHouse.
@@ -35,6 +32,7 @@ This repository contains a sample application built using [NestJS](https://nestj
     "message": "Test message"
   }
   ```
+
 ````
 
 - Example `curl` command:
@@ -132,3 +130,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any inquiries, find me on X (Twitter) at [@neomatic](https://x.com/neomatic)
+````
