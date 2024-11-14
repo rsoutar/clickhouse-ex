@@ -33,8 +33,6 @@ This repository contains a sample application built using [NestJS](https://nestj
   }
   ```
 
-````
-
 - Example `curl` command:
 
   ```bash
@@ -130,4 +128,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any inquiries, find me on X (Twitter) at [@neomatic](https://x.com/neomatic)
-````
